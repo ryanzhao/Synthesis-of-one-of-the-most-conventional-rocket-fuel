@@ -1,7 +1,7 @@
 The full synthesis process is written below
 
 Synthesis of Diaminoglyoxime from Glyoxal (These procedures are very detailed to make sure time is 
-saved when working on it. The more detail put on this “LAB NOTES” the less redo you need to suffer in the future. Make sure you read them carefully before startinh.
+saved when working on it. The more detail put on this “LAB NOTES” the less redo you need to suffer in the future. Make sure you read them carefully before starting.
 
 
 First step
